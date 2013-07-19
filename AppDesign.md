@@ -3,8 +3,8 @@
 希望能做一個人傳人的聊天室。
 
 ### 實際案例
-iMessage
-MSN
+* iMessage
+* MSN
 
 ### 功能
 
